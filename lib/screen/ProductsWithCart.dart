@@ -8,6 +8,7 @@ class ProductsWithCart extends StatefulWidget {
 }
 
 class _ProductsWithCartState extends State<ProductsWithCart> {
+  
   var allProducts = [
     {
       "id": 1,
